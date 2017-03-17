@@ -3,14 +3,6 @@ Piwigo logos & images
 
 This repository aims to collect logos and images of the Piwigo projects.
 
-Trademark
----------
-
-The logos of this repository are trademarks of [PigoLabs](http://pigolabs.com/).
-
-The trademark rights are neither liberated nor otherwise granted to you.
-
-
 Copyright
 ---------
 
