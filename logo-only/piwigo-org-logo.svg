@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="715" height="450" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo of piwigo.org</title>
+  <metadata  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:source>https://github.com/Piwigo/Piwigo-logos</dc:source>
+      <dc:creator>Jimmy</dc:creator>
+      <dc:contributor>Piwigo contributors</dc:contributor>
+      <dc:date>2008</dc:date>
+      <dc:language>fr</dc:language>
+      <dc:rights>GPLv2</dc:rights>
+    </rdf:RDF>
+  </metadata>
+  <path fill="#ff7700" d="m0,70c0-11.046,8.955-20,20-20h305l10-35c1.719-7.458,7.541-13.282,15-15h245 c7.459,1.718,13.281,7.542,15,15l10,35h75c11.045,0,20,8.954,20,20v360c0,11.047-8.955,20-20,20H20c-11.045,0-20-8.953-20-20V70"/>
+  <path fill="#4e4e4e" d="m382,24c0-2.762,2.238-5,5-5h170c2.762,0,5,2.238,5,5v52c0,2.762-2.238,5-5,5H387c-2.762,0-5-2.238-5-5V24"/>
+  <path fill="#ffffff" d="m389.5,30c0-2.762,2.238-5,5-5h155c2.762,0,5,2.238,5,5v40c0,2.762-2.238,5-5,5h-155c-2.762,0-5-2.238-5-5 V30"/>
+  <ellipse fill="#ffffff" cx="200" cy="250" rx="150" ry="150"/>
+  <ellipse fill="#4e4e4e" cx="200" cy="250" rx="123" ry="123"/>
+  <ellipse fill="#ffffff" cx="200" cy="250" rx="100" ry="100"/>
+  <ellipse fill="#4e4e4e" cx="190" cy="260" rx="100" ry="100"/>
+</svg>
