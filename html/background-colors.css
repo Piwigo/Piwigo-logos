@@ -1,0 +1,73 @@
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.lightgrey-background { 
+  background-color: lightgrey; 
+  color: black;
+}
+
+.darkgrey-background { 
+  background-color: darkgrey; 
+  color: white;
+}
+
+.grey-background { 
+  background-color: grey; 
+  color: white;
+}
+
+.black-background { 
+  background-color: black; 
+  color: white;
+}
+
+.orange-background { 
+  background-color: orange; 
+  color: white;
+}
+
+.darkorange-background { 
+  background-color: darkorange; 
+  color: white;
+}
+
+.pink-background { 
+  background-color: pink;
+  color: black;
+}
+
+.red-background { 
+  background-color: red;
+  color: black;
+}
+
+.darkred-background { 
+  background-color: darkred;
+  color: black;
+}
+
+.darksalmon-background { 
+  background-color: darksalmon;
+  color: black;
+}
+
+.salmon-background { 
+  background-color: salmon;
+  color: black;
+}
+
+.magenta-background { 
+  background-color: magenta;
+  color: white;
+}
+
+.darkmagenta-background { 
+  background-color: darkmagenta;
+  color: white;
+}
+
+* {
+  padding: 1em;
+}
