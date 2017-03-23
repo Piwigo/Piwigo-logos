@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="716" height="453" xmlns="http://www.w3.org/2000/svg">
+<title>Logo of piwigo.org</title>
+<metadata  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:source>https://github.com/Piwigo/Piwigo-logos</dc:source>
+    <dc:creator>Jimmy</dc:creator>
+    <dc:contributor>Piwigo contributors</dc:contributor>
+    <dc:date>2008</dc:date>
+    <dc:rights>GPLv2</dc:rights>
+  </rdf:RDF>
+</metadata>
+<path fill="#f70" d="m356 1c-7 0-15 7-18 15l-12 36h-300c-14 0-25 12-25 26v348c0 14 11 26 25 26h664c14 0 25-12 25-26v-348c0-14-11-26-25-26h-67l-15-36c-4-9-12-15-19.5-15h-232z"/>
+<path fill="#fff" stroke="#4e4e4e" stroke-width="8" d="m394 21h158c3 0 6 3 6 6v41c0 3-3 6-6 6h-157c-3 0-6-3-6-6v-41c0-3 3-6 6-6z"/>
+<circle fill="#ffffff" cx="199" cy="249" r="151"/>
+<circle fill="#4e4e4e" cx="199" cy="249" r="123"/>
+<circle fill="#ffffff" cx="199" cy="249" r="100"/>
+<circle fill="#4e4e4e" cx="189" cy="257" r="100"/>
+</svg>
