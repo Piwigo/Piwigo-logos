@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1953 451" xmlns="http://www.w3.org/2000/svg">
+<title>Original SVG logo of piwigo.org</title>
+<metadata  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:source>https://github.com/Piwigo/Piwigo-logos</dc:source>
+    <dc:creator>Jimmy</dc:creator>
+    <dc:contributor>Piwigo contributors</dc:contributor>
+    <dc:date>2008</dc:date>
+    <dc:language>fr</dc:language>
+    <dc:rights>GPLv2</dc:rights>
+  </rdf:RDF>
+</metadata>
+<path d="m1594 0c-7 0-15 7-18 15l-12 36h-300c-14 0-25 12-25 26v348c0 14 11 26 25 26h664c14 0 25-12 25-26v-348c0-14-11-26-25-26h-67l-15-36c-4-9-12-15-19.5-15h-232z" fill="#f70"/>
+<path d="m1632 20h158c3 0 6 3 6 6v41c0 3-3 6-6 6h-157c-3 0-6-3-6-6v-41c0-3 3-6 6-6z" fill="#fff" stroke="#4e4e4e" stroke-width="8"/>
+<circle cx="1437" cy="248" r="151" fill="#fff"/>
+<circle cx="1437" cy="248" r="123" fill="#4e4e4e"/>
+<circle cx="1437" cy="248" r="100" fill="#fff"/>
+<circle cx="1427" cy="256" r="100" fill="#4e4e4e"/>
+<text x="-2.00577" y="399.103" fill="#000" font-family="'Lacuna Regular'" font-size="72.67px" letter-spacing="-.02px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:14px" xml:space="preserve"><tspan x="-2.00577" y="399.103" font-family="'Lacuna Regular'" font-size="72.67px" letter-spacing="-.02px" text-align="start" text-anchor="start" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">YOUR OWN PHOTO GALLERY</tspan></text>
+<text x="-42.0114" y="315.334" fill="#000" font-family="'Lacuna Regular'" font-size="378.4px" letter-spacing="79.52px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:14px" xml:space="preserve"><tspan x="-42.0114" y="315.334" font-size="378.4px" letter-spacing="79.52px" text-align="start" text-anchor="start">Piwig</tspan></text>
+<text x="1745.94"  y="383.738" fill="#000" font-family="Purisa" font-size="53.33px" letter-spacing="3.58px" stroke-width="1px" text-align="center" text-anchor="middle" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:14px" xml:space="preserve"><tspan x="1747.73" y="383.738" fill="#ffffff" font-family="'Lacuna Regular'" font-size="184px" text-align="center" text-anchor="middle" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">.org</tspan></text>
+</svg>
