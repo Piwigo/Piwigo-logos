@@ -32,7 +32,10 @@ Any Piwigo-related project can use the logo-only files and can produce derivated
 Font
 ----
 
-The text in the logo uses the [Lacuna regular](https://www.fontsquirrel.com/fonts/Lacuna-Regular) font designed by [Peter Hoffmann](http://www.glashaus-design.com/info/about/) in 2003. This repo [contains](./font/) a copy of this font.
+The text in the logo uses the [Lacuna regular](https://www.fontsquirrel.com/fonts/Lacuna-Regular) font designed by [Peter Hoffmann](http://www.glashaus-design.com/info/about/) in 2003. This repo [contains](./font/) a copy of this font. Please see the [licence](./font/glashaus-lacuna-license.txt). Following is an extracted fragment:
+
+> LACUNA is freeware! You have the permission to use the font for every kind of publication (electronic/print), it doesn't matter if its commercial or not. You can copy and give it away to your friends as long as the font-info-file is included with the postscript or true type data.
+
 
 Rendering
 ---------
