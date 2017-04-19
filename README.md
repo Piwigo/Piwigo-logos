@@ -18,14 +18,17 @@ Therefore, all logo files of this repository are the copyright of *Piwigo contri
 Wordmark
 --------
 
-The word "Piwigo", whether or not in capitals, is a registered trademark in France with number 10 3 704 098.
+The word "Piwigo", whether or not in capitals, is a registered trademark in France with number `10 3 704 098`.
 
-There are two types of logos:
+Picture files are sorted within four folders:
 
-Directory                              | Logo example
--------------------------------------- | --------------------------
-[logo only](./logo-only/)              | image file to be inserted in repo...
-[logo with wordmark](./logo-wordmark/) | image file to be inserted in repo...
+Folder                                             | Logo example
+-------------------------------------------------- | --------------------------
+[reference](./reference/)  (the original file)     | ![](./reference/piwigo-org-font-lacuna.svg)
+[logo-only](./logo-only/)  (no text)               | ![](./logo-only/piwigo-org-logo.svg)
+[logo-wordmark](./logo-wordmark/)  (logo and text) | ![](./logo-only/piwigo-org-logo-black-letters.svg)
+[favicon](./favicon/)  (web browser icon)          | ![](./favicon/piwigo-org-favicon.ico)
+
 
 Any Piwigo-related project can use the logo-only files and can produce derivated works.
 
