@@ -26,7 +26,7 @@ Folder                                             | Logo example
 -------------------------------------------------- | --------------------------
 [reference](./reference/)  (the original file)     | ![](./reference/piwigo-org-font-lacuna.svg)
 [logo-only](./logo-only/)  (no text)               | ![](./logo-only/piwigo-org-logo.svg)
-[logo-wordmark](./logo-wordmark/)  (logo and text) | ![](./logo-only/piwigo-org-logo-black-letters.svg)
+[logo-wordmark](./logo-wordmark/)  (logo and text) | ![](./logo-wordmark/piwigo-org-logo-black-letters.svg)
 [favicon](./favicon/)  (web browser icon)          | ![](./favicon/piwigo-org-favicon.ico)
 
 
